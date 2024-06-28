@@ -1,0 +1,10 @@
+langchain-openai
+langchain_core
+langchain-community
+streamlit
+python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+pydantic==1.10.13
