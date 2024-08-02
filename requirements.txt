@@ -1,6 +1,8 @@
+langchain
 langchain-openai
 langchain_core
 langchain-community
+langchainhub
 streamlit
 python-dotenv
 langserve
@@ -15,3 +17,8 @@ pypdf
 chromadb
 faiss-cpu
 qdrant-client
+arxiv
+wikipedia
+groq
+langchain-groq
+sentence_transformers
